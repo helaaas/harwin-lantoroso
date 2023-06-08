@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/httpsharwin-lantoroso-rf-gd-view.css');
+@import url('@fontsource/abel/index.css');    html {
+      --lumo-primary-color: hsla(214, 26%, 96%, 0.92);
+      --lumo-primary-color-50pct: hsla(214, 26%, 96%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 26%, 96%, 0.1);
+      --lumo-base-color: #1266d3;
+--lumo-font-family: Abel;
+
+    }
